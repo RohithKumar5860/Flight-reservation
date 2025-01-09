@@ -10,3 +10,7 @@ JavaScript handles key functionalities, such as form validation, interactive dat
 
 The web page also includes features like a summary of selected flights, cost calculation, and an interactive confirmation page to finalize reservations. This project highlights my ability to integrate front-end technologies to create a functional, aesthetically pleasing, and user-friendly platform for efficient flight booking.
 </p>
+<h4>
+  The interface of the web page looks like the :-
+</h4>
+<img src = "interface.png">

@@ -18,3 +18,7 @@ The web page also includes features like a summary of selected flights, cost cal
   The search of l=lights look like the :-
 </h4>
 <img src = "search flight.png">
+<h4>
+  The flights according to the search is  :-
+</h4>
+<img src = "details.png">

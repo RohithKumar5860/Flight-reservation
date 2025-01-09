@@ -14,3 +14,7 @@ The web page also includes features like a summary of selected flights, cost cal
   The interface of the web page looks like the :-
 </h4>
 <img src = "interface.png">
+<h4>
+  The search of l=lights look like the :-
+</h4>
+<img src = "search flight.png">

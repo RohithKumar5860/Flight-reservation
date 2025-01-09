@@ -26,3 +26,7 @@ The web page also includes features like a summary of selected flights, cost cal
   Enter the etais of the  passenger to a selected flight :-
 </h4>
 <img src  = "passenger detail,png.png">
+<h4>
+  flight booking ticket conformatin :-
+</h4>
+<img src = ""bookingconform.png>

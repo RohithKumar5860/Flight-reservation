@@ -22,3 +22,7 @@ The web page also includes features like a summary of selected flights, cost cal
   The flights according to the search is  :-
 </h4>
 <img src = "details.png">
+<h4>
+  Enter the etais of the  passenger to a selected flight :-
+</h4>
+<img src  = "passenger detail,png.png">
